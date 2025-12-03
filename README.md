@@ -70,6 +70,10 @@ src/
 ## How to Run
 
 ### Clone the repository
+```bash
+   git clone https://github.com/gkrm2/Nexus3Capital.git
+   cd src
+```
 
 ### Locally (Python Virtual Environment)
 ```bash
@@ -109,4 +113,5 @@ src/
 
 ## References
     GPT-2: HuggingFace Transformers
+
     LoRA: Low-Rank Adaptation
