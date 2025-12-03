@@ -1,0 +1,29 @@
+{
+    "Utility_1_data": {
+        "Utility": "Utility_1_data",
+        "Model": "GPT2 + LoRA",
+        "MAE": 2266.9154313151043,
+        "RMSE": 2615.968720981677,
+        "MAPE": 12.011248186212208,
+        "Model_Path": "trainedModels/Utility_1_data_best_model.pth",
+        "Scaler_Path": "trainedModels/Utility_1_data_scaler.pkl"
+    },
+    "Utility_2_data": {
+        "Utility": "Utility_2_data",
+        "Model": "GPT2 + LoRA",
+        "MAE": 1305.9765104166668,
+        "RMSE": 1490.711641974372,
+        "MAPE": 8.22294911380231,
+        "Model_Path": "trainedModels/Utility_2_data_best_model.pth",
+        "Scaler_Path": "trainedModels/Utility_2_data_scaler.pkl"
+    },
+    "Utility_3_data": {
+        "Utility": "Utility_3_data",
+        "Model": "GPT2 + LoRA",
+        "MAE": 601.947696940104,
+        "RMSE": 728.2668101907616,
+        "MAPE": 4.24125895133857,
+        "Model_Path": "trainedModels/Utility_3_data_best_model.pth",
+        "Scaler_Path": "trainedModels/Utility_3_data_scaler.pkl"
+    }
+}
